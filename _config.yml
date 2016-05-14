@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: twitter_username
-github_username:  github_username
+github_username:  niranjaniprasad
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,7 @@ collections:
     output: true
     permalink: /portfolio/:path/
   poetry:
-    output: true
+    output: false
     permalink: /poetry/:path
 
 gems: [jekyll-paginate]
