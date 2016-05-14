@@ -81,11 +81,11 @@ a {
   }
   */ }
   a:hover {
-    color: #FF3636;
+    color: #F29105;
     text-decoration: none; }
 
 article a {
-  color: #FF3636;
+  color: #F29105;
   font-weight: 100; }
   article a:hover {
     text-decoration: none; }
@@ -168,7 +168,7 @@ pre {
   margin-bottom: 0; }
   .site-title:hover {
     text-decoration: none;
-    color: #FF3636; }
+    color: #F29105; }
 
 .site-nav {
   float: right;
@@ -202,7 +202,7 @@ pre {
   line-height: 3em;
   z-index: 25; }
   .header-bar h1 {
-    color: #FF3636;
+    color: #F29105;
     font-size: 75px; }
   .header-bar h2 {
     font-size: 25px; }
@@ -235,7 +235,7 @@ pre {
 .paginationicon {
   font-size: 50px; }
   .paginationicon a {
-    color: #FF3636; }
+    color: #F29105; }
 
 /**
  * Page content   **********************************************************
@@ -268,12 +268,12 @@ pre {
   margin-bottom: 40px; }
 
 .post-title {
-  font-size: 42px;
+  #font-size: 42px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {
     .post-title {
-      font-size: 36px; } }
+      #font-size: 36px; } }
 
 .post-content h2 {
   font-size: 42px; }
@@ -334,11 +334,12 @@ pre {
   overflow: hidden; }
 
 .thumbnail img {
-  width: 500px;
+  width: 400px;
   height: auto;
   position: relative;
-  left: -25%;
-  top: -5%; }
+  left: -15%;
+  top: -10%;
+  opacity: 0.9; }
 
 .thumbnail a {
   float: left;
@@ -353,19 +354,21 @@ pre {
   left: 0;
   bottom: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.4);
-  color: #ddd;
+  color: black;
   padding: 40px;
-  text-align: center; }
+  text-align: center;
+  display: block; }
 
 .thumbnail a:hover span {
-  display: block; }
+  display: block;
+  background: rgba(0, 0, 0, 0.5);
+  color: #ddd; }
 
 /** 
  * Portfolio pages **********************************************************
 */
 .blankbox {
-  background: #FF3636; }
+  background: #F29105; }
 
 .img_row {
   height: 275px;
