@@ -338,8 +338,7 @@ pre {
   height: auto;
   position: relative;
   left: -15%;
-  top: -10%;
-  opacity: 0.9; }
+  top: -10%; }
 
 .thumbnail a {
   float: left;
@@ -354,14 +353,15 @@ pre {
   left: 0;
   bottom: 0;
   right: 0;
-  color: black;
+  color: #ddd;
   padding: 40px;
   text-align: center;
+  background: rgba(0, 0, 0, 0.5);
   display: block; }
 
 .thumbnail a:hover span {
   display: block;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.9);
   color: #ddd; }
 
 /** 
