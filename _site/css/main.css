@@ -9,7 +9,7 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { m
 /* Set theme color *************************/
 /************************************************************/
 /** Basic styling */
-body { font-family: Fontin, Helvetica, sans-serif; font-size: 16px; line-height: 1.5em; font-weight: 100; color: #666; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body { font-family: Fontin, Georgia, sans-serif; font-size: 16px; line-height: 1.5em; font-weight: 100; color: #666; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 20px; }
