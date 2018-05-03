@@ -19,6 +19,15 @@ font-family: Fontin-SmallCaps;
 src: url(/Fontin-SmallCaps.otf);
 }
 
+@font-face {
+font-family: Fontin;
+src: url(/css/Fontin.otf);
+}
+
+@font-face {
+font-family: Fontin-SmallCaps;
+src: url(/css/Fontin-SmallCaps.otf);
+}
 body { font-family: Fontin ; Georgia, sans-serif; font-size: 16px; line-height: 1.5em; font-weight: 100; color: #666; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
