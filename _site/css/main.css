@@ -84,7 +84,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
   .site-nav .page-link { display: line; } }
 
 .header-bar { left: 0px; top: 0px; position: relative; font-size: 20px; display: block; opacity: 0.75; width: 100%; text-align: center; padding-top: 25px; line-height: 3em; z-index: 25; }
-.header-bar h1 { color: #F29105; font-size: 75px; }
+.header-bar h1 { color: #F29105; font-size: 175px; }
 .header-bar h2 { font-size: 25px; }
 
 /** Site footer  ********************************************************** */
