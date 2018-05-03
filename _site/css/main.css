@@ -11,12 +11,12 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { m
 /** Basic styling */
 @font-face {
 font-family: Fontin;
-src: url(/_site/css/Fontin.otf);
+src: url(/Fontin.otf);
 }
 
 @font-face {
 font-family: Fontin-SmallCaps;
-src: url(/_site/css/Fontin-SmallCaps.otf);
+src: url(/Fontin-SmallCaps.otf);
 }
 
 body { font-family: Fontin ; Georgia, sans-serif; font-size: 16px; line-height: 1.5em; font-weight: 100; color: #666; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
