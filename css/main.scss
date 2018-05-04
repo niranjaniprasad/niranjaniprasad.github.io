@@ -3,10 +3,18 @@
 ---
 @charset "utf-8";
 
+@font-face {
+font-family: Fontin;
+src: url("/css/Fontin.otf") format('opentype');
+}
 
+@font-face {
+font-family: Fontin-SmallCaps;
+src: url("/css/Fontin-SmallCaps.otf") format('opentype');
+}
 
 // Our variables
-$base-font-family: Fontin-SmallCaps, Helvetica, sans-serif;
+$base-font-family: Fontin, Helvetica, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
