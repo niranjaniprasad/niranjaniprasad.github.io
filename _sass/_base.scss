@@ -12,6 +12,7 @@ dl, dd, ol, ul, figure {
 
 /** Variables **********************************************/
 $base-font-family:              Fontin, Helvetica, sans-serif;
+$head-font-family:		Fontin-SmallCaps, sans-serif;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
@@ -114,7 +115,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-family: Fontin-SmallCaps;
+    font-family: $head-font-family;
     font-weight: 100;
 }
 
