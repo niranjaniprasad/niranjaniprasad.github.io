@@ -10,28 +10,18 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { m
 /************************************************************/
 /** Basic styling */
 
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://spratt.github.io/Computer-Modern/cmunss.otf');
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://spratt.github.io/Computer-Modern/cmunsx.otf');
-    font-weight: bold;
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://spratt.github.io/Computer-Modern/cmunsi.otf');
-    font-style: italic, oblique;
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://spratt.github.io/Computer-Modern/cmunbxo.otf');
-    font-weight: bold;
-    font-style: italic, oblique;
-  }
+@font-face {
+font-family: Fontin;
+src: url("/Fontin.otf") format('opentype');
+}
+
+@font-face {
+font-family: Fontin-SmallCaps;
+src: url("/Fontin-SmallCaps.otf") format('opentype');
+}
+
   
-body { font-family: "Computer Modern", serif; font-size: 10px; line-height: 1.5em; font-weight: 100; color: #666; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
+body { font-family: Fontin, serif; font-size: 10px; line-height: 1.5em; font-weight: 100; color: #666; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 20px; }
