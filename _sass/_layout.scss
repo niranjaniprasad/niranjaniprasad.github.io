@@ -75,7 +75,7 @@ display: line;
  */
 .site-footer {
 border-top: 1px solid $grey-color-dark;
-font-size: 10px;
+font-size: 14px;
 background-color: $grey-color-dark;
 padding: 2px;
 color: #aaa;
@@ -161,7 +161,7 @@ font-size: 18px;
     }
 h5 {
 font-family: Fontin-SmallCaps;
-font-size: 14px;
+font-size: 14.5px;
 @include media-query($on-laptop) {
 font-size: 12px;
         }

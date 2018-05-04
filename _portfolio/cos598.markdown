@@ -4,6 +4,7 @@ title: Automatic Neuron Segmentation from Two-Photon Excitation Microscopy
 description: Automatic Neuron Segmentation from Two-Photon Excitation Microscopy
 img: /img/img17.jpg
 ---
+<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans" rel="stylesheet">
 
 *This is joint work with Rob Aguilar, Noah Apthorpe, Hussein Nagree and Cyril Zhang, advised by Sebastian Seung.*
 

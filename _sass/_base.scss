@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
 
 
 /** Variables **********************************************/
-$base-font-family:              Fontin, Helvetica, sans-serif;
+$base-font-family:              'Alegreya Sans', sans-serif;
 $head-font-family:		Fontin-SmallCaps, sans-serif;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
@@ -50,7 +50,7 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 70;
+    font-weight: 100;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;

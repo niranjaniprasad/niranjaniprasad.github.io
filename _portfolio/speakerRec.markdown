@@ -4,6 +4,7 @@ title: Adaptive Speaker Recognition
 description: Master's Thesis - Adaptive Speaker Recognition
 img: /img/img16.jpg
 ---
+<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans" rel="stylesheet">
 
 <img class="col one right" src="/img/nao_hearing.png">
 
