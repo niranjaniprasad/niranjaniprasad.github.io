@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /photography/
 title: Here and there...
+permalink: /photography/
 images:
  - image_path: /showcase/IMG_0225.jpg
  - image_path: /showcase/IMG_0363.jpg
