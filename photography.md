@@ -107,7 +107,7 @@ images:
     <!-- lightgallery plugins -->
     <script src="/lightGallery-Master/modules/lg-thumbnail.min.js"></script>
     <script src="/lightGallery-Master/modules/lg-fullscreen.min.js"></script>
-    <script src="/lg-hash-master/dist/lg-hash./lg-hash.min.js"></script>
+    <script src="/lg-hash-master/dist/lg-hash.min.js"></script>
 <div class="demo-gallery">
   <ul id="lightgallery">
     {% for image in page.images %}
