@@ -66,7 +66,7 @@ images:
 ---
 <head>
   <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="/lightGallery-Master/dist/css/lightgallery.css" /> 
+    <link type="text/css" rel="stylesheet" href="http://niranjaniprasad.github.io/lightGallery-master/dist/css/lightgallery.css" /> 
             <style type="text/css">
             .demo-gallery > ul {
               list-style-type: none;
@@ -103,10 +103,10 @@ images:
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <!-- A jQuery plugin that adds cross-browser mouse wheel support. (Optional) -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.10/js/lightgallery-all.min.js"></script>
     <!-- lightgallery plugins -->
-    <script src="/lightGallery-Master/modules/lg-thumbnail.min.js"></script>
-    <script src="/lightGallery-Master/modules/lg-fullscreen.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.10/js/lightgallery-all.min.js"></script>
+    <!--<script src="/lightGallery-Master/modules/lg-thumbnail.min.js"></script>
+    <script src="/lightGallery-Master/modules/lg-fullscreen.min.js"></script>-->
 <div class="demo-gallery">
   <ul id="lightgallery">
     {% for image in page.images %}
