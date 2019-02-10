@@ -4,6 +4,7 @@ title: Here and there...
 permalink: /photography/
 images:
  - image_path: /showcase/IMG_0225.jpg
+   caption: "Sandy Hook, New Jersey"
  - image_path: /showcase/IMG_0363.jpg
  - image_path: /showcase/IMG_0686.jpg
  - image_path: /showcase/IMG_4865.jpg
@@ -110,8 +111,8 @@ images:
 <div class="demo-gallery">
   <ul id="lightgallery">
     {% for image in page.images %}
-  <a href="{{ image.image_path }}" >
-     <li><img class="col one" style=" width: 33.3%;height: 300px;overflow: hidden;" src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  <a href="{{ image.image_path }} " data-sub-html="{{ image.caption }}" >
+     <li><img class="col one" style="width: 33.3%;height: 300px;overflow: hidden;" src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
   </a>
     {% endfor %}
   </ul>

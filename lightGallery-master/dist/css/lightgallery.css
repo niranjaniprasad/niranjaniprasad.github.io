@@ -193,6 +193,7 @@
 
 .lg-sub-html {
   background-color: rgba(0, 0, 0, 0.45);
+  font-family: ;
   bottom: 0;
   color: #EEE;
   font-size: 16px;
@@ -702,7 +703,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   display: block;
   white-space: pre;
   padding: 4px 12px;
-  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: Georgia, Helvetica,Arial,sans-serif;
   font-size: 12px;
 }
 .lg-outer .lg-dropdown a:hover {
