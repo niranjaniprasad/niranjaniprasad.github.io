@@ -1,8 +1,8 @@
 /*! lightgallery - v1.6.10 - 2018-05-01
-* http://sachinchoolur.github.io/lightGallery/
+* https://sachinchoolur.github.io/lightGallery/
 * Copyright (c) 2018 Sachin N; Licensed GPLv3 */
 /*! lightgallery - v1.6.10 - 2018-05-01
-* http://sachinchoolur.github.io/lightGallery/
+* https://sachinchoolur.github.io/lightGallery/
 * Copyright (c) 2018 Sachin N; Licensed GPLv3 */
 (function (root, factory) {
   if (typeof define === 'function' && define.amd) {
@@ -442,7 +442,7 @@
                     html5: true
                 };
             } else {
-                console.error('lightGallery :- data-src is not pvovided on slide item ' + (index + 1) + '. Please make sure the selector property is properly configured. More info - http://sachinchoolur.github.io/lightGallery/demos/html-markup.html');
+                console.error('lightGallery :- data-src is not pvovided on slide item ' + (index + 1) + '. Please make sure the selector property is properly configured. More info - https://sachinchoolur.github.io/lightGallery/demos/html-markup.html');
                 return false;
             }
         }
@@ -1364,7 +1364,7 @@
 }));
 
 /*! lg-autoplay - v1.0.4 - 2017-03-28
-* http://sachinchoolur.github.io/lightGallery
+* https://sachinchoolur.github.io/lightGallery
 * Copyright (c) 2017 Sachin N; Licensed GPLv3 */
 
 (function (root, factory) {
@@ -1571,7 +1571,7 @@
 }));
 
 /*! lg-fullscreen - v1.0.1 - 2016-09-30
-* http://sachinchoolur.github.io/lightGallery
+* https://sachinchoolur.github.io/lightGallery
 * Copyright (c) 2016 Sachin N; Licensed GPLv3 */
 
 (function (root, factory) {
@@ -1688,7 +1688,7 @@
 }));
 
 /*! lg-pager - v1.0.2 - 2017-01-22
-* http://sachinchoolur.github.io/lightGallery
+* https://sachinchoolur.github.io/lightGallery
 * Copyright (c) 2017 Sachin N; Licensed GPLv3 */
 
 (function (root, factory) {
@@ -1794,7 +1794,7 @@
 }));
 
 /*! lg-thumbnail - v1.1.0 - 2017-08-08
-* http://sachinchoolur.github.io/lightGallery
+* https://sachinchoolur.github.io/lightGallery
 * Copyright (c) 2017 Sachin N; Licensed GPLv3 */
 
 (function (root, factory) {
@@ -2273,7 +2273,7 @@
 }));
 
 /*! lg-video - v1.2.2 - 2018-05-01
-* http://sachinchoolur.github.io/lightGallery
+* https://sachinchoolur.github.io/lightGallery
 * Copyright (c) 2018 Sachin N; Licensed GPLv3 */
 
 (function (root, factory) {
@@ -2616,7 +2616,7 @@
 }));
 
 /*! lg-zoom - v1.1.0 - 2017-08-08
-* http://sachinchoolur.github.io/lightGallery
+* https://sachinchoolur.github.io/lightGallery
 * Copyright (c) 2017 Sachin N; Licensed GPLv3 */
 
 (function (root, factory) {
@@ -3144,7 +3144,7 @@
 }));
 
 /*! lg-hash - v1.0.4 - 2017-12-20
-* http://sachinchoolur.github.io/lightGallery
+* https://sachinchoolur.github.io/lightGallery
 * Copyright (c) 2017 Sachin N; Licensed GPLv3 */
 
 (function (root, factory) {
@@ -3246,7 +3246,7 @@
 }));
 
 /*! lg-share - v1.1.0 - 2017-10-03
-* http://sachinchoolur.github.io/lightGallery
+* https://sachinchoolur.github.io/lightGallery
 * Copyright (c) 2017 Sachin N; Licensed GPLv3 */
 
 (function (root, factory) {
@@ -3323,7 +3323,7 @@
 
                 $('#lg-share-googleplus').attr('href', 'https://plus.google.com/share?url=' + (encodeURIComponent(_this.getSahreProps(index, 'googleplusShareUrl') || window.location.href)));
 
-                $('#lg-share-pinterest').attr('href', 'http://www.pinterest.com/pin/create/button/?url=' + (encodeURIComponent(_this.getSahreProps(index, 'pinterestShareUrl') || window.location.href)) + '&media=' + encodeURIComponent(_this.getSahreProps(index, 'src')) + '&description=' + _this.getSahreProps(index, 'pinterestText'));
+                $('#lg-share-pinterest').attr('href', 'https://www.pinterest.com/pin/create/button/?url=' + (encodeURIComponent(_this.getSahreProps(index, 'pinterestShareUrl') || window.location.href)) + '&media=' + encodeURIComponent(_this.getSahreProps(index, 'src')) + '&description=' + _this.getSahreProps(index, 'pinterestText'));
 
             }, 100);
         });

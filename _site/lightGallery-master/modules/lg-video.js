@@ -1,5 +1,5 @@
 /*! lg-video - v1.2.2 - 2018-05-01
-* http://sachinchoolur.github.io/lightGallery
+* https://sachinchoolur.github.io/lightGallery
 * Copyright (c) 2018 Sachin N; Licensed GPLv3 */
 
 (function (root, factory) {

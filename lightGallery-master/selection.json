@@ -352,7 +352,7 @@
 		"name": "lg",
 		"url": "https://github.com/sachinchoolur/lightGallery",
 		"license": "MLT",
-		"licenseURL": "http://opensource.org/licenses/MIT"
+		"licenseURL": "https://opensource.org/licenses/MIT"
 	},
 	"preferences": {
 		"showGlyphs": true,
@@ -368,7 +368,7 @@
 				"fontURL": "https://github.com/sachinchoolur/lightGallery",
 				"copyright": "sachin",
 				"license": "MLT",
-				"licenseURL": "http://opensource.org/licenses/MIT"
+				"licenseURL": "https://opensource.org/licenses/MIT"
 			},
 			"metrics": {
 				"emSize": 1024,

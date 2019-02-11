@@ -67,7 +67,7 @@ images:
 ---
 <head>
   <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="http://niranjaniprasad.github.io/lightGallery-master/dist/css/lightgallery.css" /> 
+    <link type="text/css" rel="stylesheet" href="https://niranjaniprasad.github.io/lightGallery-master/dist/css/lightgallery.css" /> 
             <style type="text/css">
             .demo-gallery > ul {
               list-style-type: none;
