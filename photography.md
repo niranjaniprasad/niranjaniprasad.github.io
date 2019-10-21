@@ -4,16 +4,18 @@ title: Here and there...
 permalink: /photography/
 images:
  - image_path: /showcase/IMG_0225.jpg
-   caption: "Sandy Hook, New Jersey"
+#   caption: "Sandy Hook, New Jersey"
  - image_path: /showcase/IMG_0363.jpg
  - image_path: /showcase/IMG_0686.jpg
  - image_path: /showcase/IMG_4865.jpg
+ - image_path: /showcase/IMG_2512.jpg
  - image_path: /showcase/IMG_0996.jpg
  - image_path: /showcase/IMG_1163.jpg
  - image_path: /showcase/IMG_9259.jpg
  - image_path: /showcase/IMG_2662.jpg
  - image_path: /showcase/IMG_2068.jpg
  - image_path: /showcase/IMG_4857.jpg
+ - image_path: /showcase/IMG_2536.jpg
  - image_path: /showcase/IMG_2128.jpg
  - image_path: /showcase/IMG_2190.jpg
  - image_path: /showcase/IMG_2624.jpg
@@ -36,16 +38,19 @@ images:
  - image_path: /showcase/IMG_0584.jpg
  - image_path: /showcase/IMG_6102.jpg
  - image_path: /showcase/IMG_9089.jpg
+ - image_path: /showcase/IMG_3947.jpg
  - image_path: /showcase/IMG_9223.jpg
+ - image_path: /showcase/IMG_6310.jpg
  - image_path: /showcase/IMG_6170.jpg
  - image_path: /showcase/IMG_6204.jpg
- - image_path: /showcase/IMG_0793.jpg
  - image_path: /showcase/IMG_6253.jpg
+ - image_path: /showcase/IMG_0793.jpg
  - image_path: /showcase/IMG_6384.jpg
  - image_path: /showcase/IMG_6444.jpg
  - image_path: /showcase/IMG_6459.jpg
  - image_path: /showcase/IMG_6924.jpg
  - image_path: /showcase/IMG_7000.jpg
+ - image_path: /showcase/IMG_4076.jpg
  - image_path: /showcase/IMG_8710.jpg
  - image_path: /showcase/IMG_7252.jpg
  - image_path: /showcase/IMG_7273.jpg
@@ -62,8 +67,12 @@ images:
  - image_path: /showcase/IMG_7991.jpg
  - image_path: /showcase/IMG_8048.jpg
  - image_path: /showcase/IMG_8562.jpg
- - image_path: /showcase/IMG_9305.jpg
+ - image_path: /showcase/IMG_2720.jpg
+ - image_path: /showcase/IMG_0952.jpg
+ - image_path: /showcase/IMG_2795.jpg
  - image_path: /showcase/IMG_9366.jpg
+ - image_path: /showcase/IMG_6177.jpg
+ - image_path: /showcase/IMG_9305.jpg
 ---
 <head>
   <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans" rel="stylesheet">
