@@ -4,7 +4,7 @@ title: Here and there...
 permalink: /photography/
 images:
  - image_path: /showcase/IMG_0225.jpg
-#   caption: "Sandy Hook, New Jersey"
+   caption: "Sandy Hook, New Jersey"
  - image_path: /showcase/IMG_0363.jpg
  - image_path: /showcase/IMG_0686.jpg
  - image_path: /showcase/IMG_4865.jpg
