@@ -954,6 +954,7 @@ h5 {
 	margin-top: .8em;
 	margin-bottom: .4em;
 	font-family: "Fontin-SmallCaps", serif;
+	src: url("../css/Fontin-SmallCaps.otf") format('opentype');
 	font-weight: lighter;
 	color: #333333;
 	-webkit-font-smoothing: antialiased; }
@@ -1190,14 +1191,14 @@ hr {
 .panel-title {
 	margin: 0 0 5px 0;
 	font-family: Fontin-SmallCaps;
-	src: url("/css/Fontin-SmallCaps.otf") format('opentype');
+	src: url("../css/Fontin-SmallCaps.otf") format('opentype');
 	font-size: 2.5em;
 	letter-spacing: 3px;
 	color: #FFF; }
 
 .panel-subtitle {
 	font-family: Fontin;
-	src: url("/css/Fontin.otf") format('opentype');
+	src: url("../css/Fontin.otf") format('opentype');
 	font-size: 1.1em;
 	font-weight: lighter;
 	letter-spacing: 0px;
@@ -1206,7 +1207,7 @@ hr {
 
 	.panel-subtitle2 {
 	font-family: Fontin-SmallCaps;
-	src: url("/css/Fontin-SmallCaps.otf") format('opentype');
+	src: url("../css/Fontin-SmallCaps.otf") format('opentype');
 	font-size: 1.1em;
 	font-weight: lighter;
 	letter-spacing: 0px;
