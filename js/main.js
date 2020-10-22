@@ -61,6 +61,7 @@ $(document).ready(function () {
 
   $('.navigation-wrapper .projects-button').click(function () {
     if ($('.content-wrapper').hasClass('showing')){
+    $('body').scrollTop(0);
     window.onscroll = function (){};
     $('body').unbind('touchmove')
 
