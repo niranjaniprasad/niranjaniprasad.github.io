@@ -7,6 +7,9 @@
 
 /* Modifications */
 
+@font-face { font-family: 'Fontin'; src: url("/css/Fontin.otf") format("opentype"); }
+@font-face { font-family: Fontin-SmallCaps; src: url("/css/Fontin-SmallCaps.otf") format("opentype"); }
+
 pre.highlight,
 .highlight pre {
   padding: 10px;
