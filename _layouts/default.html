@@ -1,24 +1,20 @@
 <!DOCTYPE html>
-  <!--<link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/img/ptonfavicon.ico?" >-->
-  <link rel="shortcut icon" type="image/png" href="/img/ptonfavicon.png">
-
 <html>
-
   {% include head.html %}
 
   <body>
-
     {% include header.html %}
 
-
-    <div class="page-content">
-      <div class="wrapper">
+    <div class="content-wrapper">
+      <div class="content-wrapper__inner">
         {{ content }}
+
+    
+
+
       </div>
+
+      {% include footer.html %}
     </div>
-
-    {% include footer.html %}
-
   </body>
-
 </html>

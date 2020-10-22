@@ -1,31 +1,35 @@
 # Site settings
-title: Niranjani Prasad
-email: you@example.com
-description: > # this means to ignore newlines until "baseurl:"
-  Niranjani Prasad - Princeton University
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  niranjaniprasad
+title: "Niranjani Prasad"
+description: 'Home Page'
+url: 'http://niranjaniprasad@github.io'
+baseurl: ''
+profilepic: '/images/profpic2.jpg'
+bkimage: '/images/bk.jpg'
+google_analytics: UA-XXXXXX-X
+font_awesome: "https://kit.fontawesome.com/4ed1c19945.js"
+
+author:
+  name: 'Niranjani Prasad'
+  email: prasad.niranjani@gmail.com
+  twitter_username: 
+  github_username:  niranjaniprasad
+  linkedin_username: niranjani-prasad
+  meetup_name: 
 
 # Build settings
+destination: _site
 markdown: kramdown
-
 highlighter: rouge
 
-# Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
+sass:
+    sass_dir: _sass
+    style: compressed
 
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
-  poetry:
-    output: false
-    permalink: /poetry/:path
-
-gems: [jekyll-paginate]
-
-
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', ]
